@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Milad  
 
-<!--
-**micodex/micodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer**  
+Building digital products with clean code, creative UI, and modern tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micodex&show_icons=true&theme=radical)
+
+### ⚙️ Tech Stack  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, VS Code, Docker  
+
+### 🚀 Current Focus  
+- Building unique portfolio projects
+- Learning DevOps & automation  
+- Exploring AI integrations in web apps  
+
+> “Keep building — progress hides in persistence.”  
+
+⭐️ *If you like my work, consider starring a repo or following me!*
