@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milad  
 
-💻 **Web Developer**  
+**Web Developer**  
 Building digital products with clean code, creative UI, and modern tools.  
 
 ---
