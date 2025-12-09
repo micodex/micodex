@@ -4,8 +4,6 @@
 Building digital products with clean code, creative UI, and modern tools.  
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micodex&show_icons=true&theme=radical)
  
 > “Keep building — progress hides in persistence.”  
 
